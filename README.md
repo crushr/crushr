@@ -8,7 +8,9 @@
 - ⭐ pytorch官方tutorials **炼丹**
 - ⭐ 模式识别与机器学习 **长期战略，本学期课程**
 - ⭐ 数学之美 **吴军大作，真好看**
+  
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
+  
 -------
 
 **博客**

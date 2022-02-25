@@ -1,6 +1,6 @@
 <h2>无情的调参机器<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<p><em>Master at <a href="https://afi.team/team/">HQU MADM</a> . </em></p>
+<p><em>Master at <a href="https://afi.team/team/">HQU MADM</a> . </em>
 
 -------
   

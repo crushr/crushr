@@ -4,7 +4,7 @@
 
 -------
   
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="310" height="200"/>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" height="180"/>
   
 **近期任务**
 - ⭐ 算法图解——算法设计与分析基础——leetcode **硬刚数据结构**

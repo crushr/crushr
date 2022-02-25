@@ -2,7 +2,7 @@
 
 <p><em>Master at <a href="https://afi.team/team/">HQU MADM</a> . </em>
 
--------
+-----
   
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
   

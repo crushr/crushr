@@ -6,8 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
 - ⭐ 算法图解——算法设计与分析基础——leetcode **硬刚数据结构**
 - ⭐ 利用python进行数据分析- **熟悉数据分析**
-- ⭐ pytorch官方tutorials **炼丹**
-- ⭐ 模式识别与机器学习 **长期战略，本学期课程**
+- ⭐ pytorch官方tutorials **先从掌握一个框架开始**
 - ⭐ 数学之美 **吴军大作，真好看**
   
 -------

@@ -2,7 +2,7 @@
 
 <p><em>Master at <a href="https://afi.team/team/">HQU MADM</a> . </em>
 
-**近期任务**
+**近期**
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
 - ⭐ 算法图解——算法设计与分析基础——leetcode
 - ⭐ 利用python进行数据分析

@@ -1,14 +1,14 @@
-<h2>无情的调参机器<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h2>今天你写bug了吗？<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
 <p><em>Master at <a href="https://afi.team/team/">HQU MADM</a> . </em>
 
 **近期任务**
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
-- ⭐ 算法图解——算法设计与分析基础——leetcode **硬刚数据结构**
-- ⭐ 利用python进行数据分析- **熟悉数据分析**
-- ⭐ pytorch官方tutorials **先从掌握一个框架开始**
-- ⭐ 数学之美 **吴军大作，真好看**
-- ⭐ 法治的细节 **张三的世界我不懂**
+- ⭐ 算法图解——算法设计与分析基础——leetcode
+- ⭐ 利用python进行数据分析
+- ⭐ pytorch官方tutorials
+- ⭐ 数学之美 
+- ⭐ 法治的细节
   
 -------
 

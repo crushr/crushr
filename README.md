@@ -1,6 +1,6 @@
 <h2>今天你写bug了吗？<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
-<p><em>Master at <a href="https://afi.team/team/">HQU MADM</a> . </em>
+<p><em>Master at <a href="http://www.hqumadm.com/">HQU MADM</a> . </em>
 
 **近期**
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>

@@ -4,11 +4,11 @@
 
 **近期**
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
-- ⭐ 课题：多模态虚假新闻检测
-- ⭐ 利用python进行数据分析
-- ⭐ pytorch官方tutorials
-- ⭐ 机器学习与模式识别
-- ⭐ 算法设计与分析基础
+- ⭐ 多模态虚假新闻检测
+- ⭐ 
+- ⭐ 
+- ⭐ 
+- ⭐ 
   
 -------
 

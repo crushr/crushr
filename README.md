@@ -1,15 +1,15 @@
-<h2>守少则固，力专则强<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h2>凡事都有对立面<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 
 <p><em>Master at <a href="http://www.hqumadm.com/">HQU MADM</a> . </em>
 
 **近期**
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>
-- ⭐ 多模态虚假新闻检测
-- ⭐ 
-- ⭐ 
-- ⭐ 
-- ⭐  
-- ⭐ 
+- ⭐ 虚
+- ⭐ 假
+- ⭐ 新
+- ⭐ 闻
+- ⭐ 检
+- ⭐ 测
 
 -------
 

@@ -1,4 +1,4 @@
-<h2>凡事都有对立面<img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
+<h2>凡事都有对立面</h2>
 
 <p><em>Master at <a href="http://www.hqumadm.com/">HQU MADM</a> . </em>
 

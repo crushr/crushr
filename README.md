@@ -1,4 +1,4 @@
-<h2>你应该是自己的那座山</h2>
+<h2>Time you enjoy wasting, is not wasted.</h2>
 
 <p><em>Master at <a href="http://www.hqumadm.com/">HQU MADM</a> . </em>
 

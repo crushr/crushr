@@ -1,6 +1,6 @@
 <h2>Time you enjoy wasting, is not wasted.</h2>
 
-<p><em>Master at <a href="http://www.hqumadm.com/">HQU MADM</a> . </em>
+<p><em>Master at <a href="https://www.hqu.edu.cn/">HQU MADM</a></em>
 
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height="155"/>

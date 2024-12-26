@@ -1,5 +1,5 @@
-<h2>I can't change the direction of the wind, but I can adjust my sails to always reach my destination
-我不能改变风的方向，但我可以调整我的帆，以永远到达我的目的地</h2>
+<h2>I can't change the direction of the wind, but I can adjust my sails to always reach my destination</h2>
+<h2>我不能改变风的方向，但我可以调整我的帆，以永远到达我的目的地</h2>
 
 <p><em>Master at <a href="https://www.hqu.edu.cn/">HQU MADM</a></em>
 

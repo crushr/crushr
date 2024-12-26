@@ -1,4 +1,4 @@
-<h2>Time you enjoy wasting, is not wasted.</h2>
+<h2>I can't change the direction of the wind, but I can adjust my sails to always reach my destination.</h2>
 
 <p><em>Master at <a href="https://www.hqu.edu.cn/">HQU MADM</a></em>
 
